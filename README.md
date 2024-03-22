@@ -30,7 +30,8 @@ No Agente temos:
 No Main
     São executados os métodos
 
-_______________________________ Método de Execução ________________________________
+_______________________________ Método de Execução ______________________________
+
 0. Os ficheiros do código estão no directório ou pasta "Programa"
 1. Para execuatar é necessário colocar ficheiros no mesmo pacote
 2. Correr o ficheiro Main.py
