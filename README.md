@@ -17,7 +17,7 @@ No modelo temos:
         self.memoria = {}
         pass
     
-    Esse construtor inicializa as variáveis de instacia do modelo
+    Esse construtor inicializa as variáveis de instacia do agente
 
 ----------------------------------------------------------------------------------
 No Agente temos:
