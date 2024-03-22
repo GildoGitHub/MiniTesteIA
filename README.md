@@ -1,5 +1,5 @@
 # MiniTesteIA
-Trabalho referente ao mini teste de IA
+Trabalho referente ao mini1 teste de IA
 
 Fiz várias modificações no código, começando por criar três ficheiros diferentes
 
