@@ -36,5 +36,7 @@ _______________________________ Método de Execução __________________________
 1. Para execuatar é necessário colocar ficheiros no mesmo pacote
 2. Correr o ficheiro Main.py
 3.Estamos em 2024
+jjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjj
 
 Autor: Gildo Virgilio Cumbane
